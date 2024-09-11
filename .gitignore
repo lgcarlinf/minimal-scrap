@@ -1,0 +1,5 @@
+# Archivos de ensamblado generados por el compilador
+bin/
+obj/
+.vs
+*.vsidx
